@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="92627" started-at="2021-05-07T13:56:53Z" finished-at="2021-05-07T13:58:26Z">
+  <suite started-at="2021-05-07T23:50:39 IST" name="Default suite" finished-at="2021-05-07T23:54:02 IST" duration-ms="202621">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="92627" started-at="2021-05-07T13:56:53Z" finished-at="2021-05-07T13:58:26Z">
+    <test started-at="2021-05-07T23:50:39 IST" name="Default test" finished-at="2021-05-07T23:54:02 IST" duration-ms="202621">
       <class name="com.workpackages.base.Login">
-        <test-method status="PASS" signature="Openmainspring()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="Openmainspring" is-config="true" duration-ms="5368" started-at="2021-05-07T19:26:48Z" finished-at="2021-05-07T19:26:53Z">
+        <test-method is-config="true" signature="Openmainspring()[pri:0, instance:com.workpackages.base.Login@24fcf36f]" started-at="2021-05-07T23:50:27 IST" name="Openmainspring" finished-at="2021-05-07T23:50:39 IST" duration-ms="12296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openmainspring -->
-        <test-method status="PASS" signature="mainspring()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="mainspring" duration-ms="74978" started-at="2021-05-07T19:26:53Z" finished-at="2021-05-07T19:28:08Z">
+        <test-method signature="mainspring()[pri:1, instance:com.workpackages.base.Login@24fcf36f]" started-at="2021-05-07T23:50:39 IST" name="mainspring" finished-at="2021-05-07T23:52:02 IST" duration-ms="83076" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainspring -->
-        <test-method status="PASS" signature="menu()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="menu" duration-ms="16676" started-at="2021-05-07T19:28:08Z" finished-at="2021-05-07T19:28:25Z">
+        <test-method signature="menu()[pri:2, instance:com.workpackages.base.Login@24fcf36f]" started-at="2021-05-07T23:52:02 IST" name="menu" finished-at="2021-05-07T23:52:10 IST" duration-ms="7429" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- menu -->
-        <test-method status="PASS" signature="callform()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="callform" duration-ms="954" started-at="2021-05-07T19:28:25Z" finished-at="2021-05-07T19:28:26Z">
+        <test-method signature="AstraForm()[pri:3, instance:com.workpackages.base.Login@24fcf36f]" started-at="2021-05-07T23:52:10 IST" name="AstraForm" finished-at="2021-05-07T23:54:02 IST" duration-ms="112017" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- callform -->
-        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="quitBrowser" is-config="true" duration-ms="838" started-at="2021-05-07T19:28:26Z" finished-at="2021-05-07T19:28:27Z">
+        </test-method> <!-- AstraForm -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.workpackages.base.Login@24fcf36f]" started-at="2021-05-07T23:54:02 IST" name="quitBrowser" finished-at="2021-05-07T23:54:04 IST" duration-ms="2094" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
