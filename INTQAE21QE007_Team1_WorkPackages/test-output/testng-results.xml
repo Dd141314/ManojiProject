@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92627" started-at="2021-05-07T13:56:53Z" finished-at="2021-05-07T13:58:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92627" started-at="2021-05-07T13:56:53Z" finished-at="2021-05-07T13:58:26Z">
+      <class name="com.workpackages.base.Login">
+        <test-method status="PASS" signature="Openmainspring()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="Openmainspring" is-config="true" duration-ms="5368" started-at="2021-05-07T19:26:48Z" finished-at="2021-05-07T19:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openmainspring -->
+        <test-method status="PASS" signature="mainspring()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="mainspring" duration-ms="74978" started-at="2021-05-07T19:26:53Z" finished-at="2021-05-07T19:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainspring -->
+        <test-method status="PASS" signature="menu()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="menu" duration-ms="16676" started-at="2021-05-07T19:28:08Z" finished-at="2021-05-07T19:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menu -->
+        <test-method status="PASS" signature="callform()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="callform" duration-ms="954" started-at="2021-05-07T19:28:25Z" finished-at="2021-05-07T19:28:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callform -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.workpackages.base.Login@6fadae5d]" name="quitBrowser" is-config="true" duration-ms="838" started-at="2021-05-07T19:28:26Z" finished-at="2021-05-07T19:28:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.workpackages.base.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
